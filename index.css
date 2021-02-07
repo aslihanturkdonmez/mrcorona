@@ -1,0 +1,15 @@
+#startScreen{
+    background: url("images_voices/final.png");
+    border-radius: 50px;  
+    background-repeat: no-repeat;  
+
+}
+#body{
+    background: url("images_voices/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#canvas{
+    z-index: -1;
+}
