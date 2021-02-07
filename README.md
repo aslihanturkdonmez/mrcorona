@@ -1,4 +1,6 @@
 # Mr. Corona
+## Açıklama
+  Javascript kullanılarak geliştirilmiş, basit ve sade web tabanlı oyun. Web Programlama dersi için yapılmıştır. 
 ## Oyun 
 Sağ ve sol yön tuşları ile Corona hareket eder. Yarasalar toplandıkça puan artar ve kolonyaya dokunduğunda ölür. 
 
